@@ -11,9 +11,11 @@ Der Lesbarkeit halber empfehle ich das Aufrufen der Notebooks über die untenste
 ## Teil 0: Primer
 Allgemeine mathematische Grundlagen: 
 
+Eindimensionale Analysis:
+
 Lineare Algebra:
 
-Ein- und mehrdimensionale Analysis:
+Mehrdimensionale Analysis:
 
 Stochastik:
 
