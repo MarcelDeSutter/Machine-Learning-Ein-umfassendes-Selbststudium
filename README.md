@@ -9,19 +9,19 @@ Das Material ist so aufbereitet, dass die einzelnen Kapitel aufeinander aufbauen
 Der Lesbarkeit halber empfehle ich das Aufrufen der Notebooks über die untenstehenden nbviewer-Links. So wird sichergestellt, dass sämtliche mathematischen Ausdrücke korrekt dargestellt werden.
 
 ## Teil 0: Primer
-Allgemeine mathematische Grundlagen: 
+**Allgemeine mathematische Grundlagen**: 
 
-Eindimensionale Analysis:
+**Eindimensionale Analysis**:
 
-Lineare Algebra:
+**Lineare Algebra**:
 
-Mehrdimensionale Analysis:
+**Mehrdimensionale Analysis**:
 
-Stochastik:
+**Stochastik**:
 
-NumPy:
+**NumPy**:
 
-Pandas:
+**Pandas**:
 
 ## Teil 1: Machine Learning
 **ML1 Lineare Regression** (*Einfache lineare Regression, Vektornormen, Kostenfunktionen, Normal Equation, Gradient Descent, Polynomenregression, Over- und Underfitting, multiple lineare Regression*): https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed 
