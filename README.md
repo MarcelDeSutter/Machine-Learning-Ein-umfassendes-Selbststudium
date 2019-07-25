@@ -8,7 +8,8 @@ Das Material ist so aufbereitet, dass die einzelnen Kapitel aufeinander aufbauen
 
 
 ## Teil 1: Klassisches Machine Learning
-ML1 Lineare Regression
+ML1 Lineare Regression:
+
 https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed
 
 ## Teil 2: Deep Learning
