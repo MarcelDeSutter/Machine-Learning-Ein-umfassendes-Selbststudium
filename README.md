@@ -29,4 +29,4 @@ Der Lesbarkeit halber empfehle ich das Aufrufen der Notebooks über die untenste
 **ML2 Logistische Regression:**
 
 ## Teil 2: Deep Learning
-**DL1 Vom Perzeptron zum neuronalen Netz:**
+**DL1 Perzeptron und neuronalen Netze:**
