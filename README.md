@@ -8,10 +8,15 @@ Das Material ist so aufbereitet, dass die einzelnen Kapitel aufeinander aufbauen
 
 ## Teil 0: Primer
 Allgemeine mathematische Grundlagen: 
+
 Lineare Algebra:
+
 Ein- und mehrdimensionale Analysis:
+
 Stochastik:
+
 NumPy:
+
 Pandas:
 
 ## Teil 1: Klassisches Machine Learning
