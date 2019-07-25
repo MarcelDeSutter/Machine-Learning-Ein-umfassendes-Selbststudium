@@ -22,7 +22,7 @@ NumPy:
 Pandas:
 
 ## Teil 1: Machine Learning
-ML1 Lineare Regression: https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed
+ML1 Lineare Regression: https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed (Kernthemen: Einfache lineare Regression, Vektornormen, Kostenfunktionen, Normal Equation, Gradient Descent, Polynomenregression, Over- und Underfitting, multiple lineare Regression)
 
 ML Logistische Regression:
 
