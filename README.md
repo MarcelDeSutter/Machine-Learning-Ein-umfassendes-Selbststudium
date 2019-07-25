@@ -24,4 +24,7 @@ Pandas:
 ## Teil 1: Machine Learning
 ML1 Lineare Regression: https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed
 
+ML Logistische Regression:
+
 ## Teil 2: Deep Learning
+DL1 Vom Perzeptron zum neuronalen Netz:
