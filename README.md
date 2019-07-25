@@ -6,10 +6,15 @@ Auch wenn ich mich bemühe, mathematische Sachverhalte korrekt auszudrücken und
 
 Das Material ist so aufbereitet, dass die einzelnen Kapitel aufeinander aufbauen. Aus dieser kursähnlichen Struktur ergibt sich die Empfehlung, die Kapitel nacheinander zu bearbeiten. Um das Material vollständig verstehen zu können, empfehle ich solide Kenntnisse in folgenden Bereichen der Mathematik (mit absteigender Wichtigkeit): Lineare Algebra, mehrdimensionale Analysis und Stochastik. Wenn die mathematischen Herleitungen nicht von Interesse sind, reichen ein Verständnis von Ableitungen/Gradienten und Matrizenmultiplikation, um die meisten Code-Beispiele zu verstehen. Dies setzt jedoch auch Vertrautheit mit Python und den Paketen NumPy, Pandas und Matplotlib voraus.
 
+## Teil 0: Primer
+Allgemeine mathematische Grundlagen: 
+Lineare Algebra:
+Ein- und mehrdimensionale Analysis:
+Stochastik:
+NumPy:
+Pandas:
 
 ## Teil 1: Klassisches Machine Learning
-ML1 Lineare Regression:
-
-https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed
+ML1 Lineare Regression: https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed
 
 ## Teil 2: Deep Learning
