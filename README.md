@@ -6,11 +6,11 @@ Auch wenn ich mich bemühe, mathematische Sachverhalte korrekt auszudrücken und
 
 Das Material ist so aufbereitet, dass die einzelnen Kapitel aufeinander aufbauen. Aus dieser kursähnlichen Struktur ergibt sich die Empfehlung, die Kapitel nacheinander zu bearbeiten. Um das Material vollständig verstehen zu können, empfehle ich solide Kenntnisse in folgenden Bereichen der Mathematik (mit absteigender Wichtigkeit): Lineare Algebra, mehrdimensionale Analysis und Stochastik. Wenn die mathematischen Herleitungen nicht von Interesse sind, reichen ein Verständnis von Ableitungen/Gradienten und Matrizenmultiplikation, um die meisten Code-Beispiele zu verstehen. Dies setzt jedoch auch Vertrautheit mit Python und den Paketen NumPy, Pandas und Matplotlib voraus.
 
-Der Lesbarkeit halber empfehle ich das Aufrufen der Notebooks über die untenstehenden nbviewer-Links. So wird sichergestellt, dass sämtliche mathematischen Ausdrücke korrekt dargestellt werden.
+Der Lesbarkeit halber empfehle ich das Aufrufen der Notebooks über die untenstehenden nbviewer-Links. So wird sichergestellt, dass sämtliche Inhalte korrekt formatiert dargestellt werden.
 
 
 ## Teil 1: Machine Learning
-**ML1 Lineare Regression** (*Korrelationskoeffizient, einfache lineare Regression, Vektornormen, Kostenfunktionen, Normal Equation, Gradient Descent, Polynomenregression, Over- und Underfitting, multiple lineare Regression*): https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression-Copy1.ipynb#ed 
+**ML1 Lineare Regression** (*Korrelationskoeffizient, einfache lineare Regression, Vektornormen, Kostenfunktionen, Normal Equation, Gradient Descent, Polynomenregression, Over- und Underfitting, multiple lineare Regression*): https://nbviewer.jupyter.org/github/MarcelDeSutter/Machine-Learning-Ein-umfassendes-Selbststudium/blob/master/ML1%20Lineare%20Regression.ipynb
 
 **ML2 Logistische Regression**:
 
